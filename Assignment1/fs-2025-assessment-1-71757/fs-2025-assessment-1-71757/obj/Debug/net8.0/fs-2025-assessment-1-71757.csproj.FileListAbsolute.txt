@@ -1,0 +1,76 @@
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/appsettings.json
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/Data/dublinbike.json
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757.exe
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757.deps.json
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757.runtimeconfig.json
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757.pdb
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/Asp.Versioning.Abstractions.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/Asp.Versioning.Http.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/Asp.Versioning.Mvc.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.csproj.AssemblyReference.cache
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.AssemblyInfoInputs.cache
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.AssemblyInfo.cs
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.csproj.CoreCompileInputs.cache
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets/msbuild.fs-2025-assessment-1-71757.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets/msbuild.build.fs-2025-assessment-1-71757.props
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.fs-2025-assessment-1-71757.props
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.fs-2025-assessment-1-71757.props
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/scopedcss/bundle/fs-2025-assessment-1-71757.styles.css
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-.C32465C5.Up2Date
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/refint/fs-2025-assessment-1-71757.dll
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.pdb
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.genruntimeconfig.cache
+C:/Users/Caleb/RiderProjects/fs-2025-assessment-1-71757/fs-2025-assessment-1-71757/obj/Debug/net8.0/ref/fs-2025-assessment-1-71757.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/appsettings.Development.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/appsettings.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/Data/dublinbike.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757.staticwebassets.endpoints.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757.deps.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757.runtimeconfig.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/fs-2025-assessment-1-71757.pdb
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/Asp.Versioning.Abstractions.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/Asp.Versioning.Http.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/Asp.Versioning.Mvc.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.csproj.AssemblyReference.cache
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.AssemblyInfoInputs.cache
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.AssemblyInfo.cs
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.csproj.CoreCompileInputs.cache
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.MvcApplicationPartsAssemblyInfo.cs
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.MvcApplicationPartsAssemblyInfo.cache
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/scopedcss/bundle/fs-2025-assessment-1-71757.styles.css
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets.build.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets.development.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-.C32465C5.Up2Date
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/refint/fs-2025-assessment-1-71757.dll
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.pdb
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/fs-2025-assessment-1-71757.genruntimeconfig.cache
+/Users/joyfatungase/Downloads/fs-2025-assessment-1-71757 2/fs-2025-assessment-1-71757/obj/Debug/net8.0/ref/fs-2025-assessment-1-71757.dll
