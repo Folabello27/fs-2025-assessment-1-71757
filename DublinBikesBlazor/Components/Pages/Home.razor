@@ -1,0 +1,73 @@
+﻿@page "/"
+
+<PageTitle>Dublin Bikes - Home</PageTitle>
+
+<style>
+    .hero {
+        background: linear-gradient(135deg, #003399 0%, #001a4d 100%);
+        color: white;
+        padding: 4rem 2rem;
+        border-radius: 1.5rem;
+        margin: 2rem 0;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+
+    .hero-content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        max-width: 1100px;
+        margin: 0 auto;
+        gap: 3rem;
+    }
+
+    .hero-title {
+        font-size: 3.5rem;
+        font-weight: 800;
+        margin-bottom: 1.5rem;
+        line-height: 1.1;
+    }
+
+    .hero-sub {
+        font-size: 1.25rem;
+        opacity: 0.9;
+        margin-bottom: 2.5rem;
+        max-width: 500px;
+    }
+
+    /* Fixed Media Query for Blazor */
+    @@media (max-width: 992px) {
+        .hero-content {
+            flex-direction: column;
+            text-align: center;
+        }
+        .hero-illustration {
+            display: none;
+        }
+        .hero-title {
+            font-size: 2.5rem;
+        }
+    }
+</style>
+
+<div class="hero">
+    <div class="hero-content">
+       <div class="hero-left">
+          <h1 class="hero-title">Explore Dublin by Bike</h1>
+          <p class="hero-sub">Live station availability, maps, and easy management for Dublin bikes.</p>
+
+          <div class="hero-ctas">
+             <a class="btn btn-primary btn-lg me-2" href="stations">View Stations</a>
+             <a class="btn btn-outline-light btn-lg" href="about">About</a>
+          </div>
+       </div>
+
+       <div class="hero-illustration" aria-hidden="true">
+          <svg width="250" height="180" viewBox="0 0 220 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+             <circle cx="60" cy="80" r="24" stroke="white" stroke-width="4" fill="none" />
+             <circle cx="160" cy="80" r="24" stroke="white" stroke-width="4" fill="none" />
+             <path d="M60 80 L90 60 L140 60 L160 80" stroke="white" stroke-width="4" fill="none" />
+          </svg>
+       </div>
+    </div>
+</div>
